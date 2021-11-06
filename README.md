@@ -9,7 +9,7 @@ The API chosen was [Exchange Rate API](https://www.exchangerate-api.com/) becaus
 
 __
 
-### How to start
+## How to start
 
 * Access the website above and create a free key
 * Substitute in the code the `Your-Key` for this new generated key (ex.:96cba03d251a29cdd8877fff)
@@ -17,7 +17,7 @@ __
 
 __
 
-### Running the solution
+## Running the solution
 
 * Clone de project into a local folder
 * Initiate the virtual environment in the Scripts directory (`api_currency_to_table/Scripts/activate.bat`)
@@ -25,7 +25,7 @@ __
 
 __
 
-### Possible outputs for the code
+## Possible outputs for the code
 
 |currency_from|currency_to|exchange_rate|exchange_date|
 |---|---|---|---|
